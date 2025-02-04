@@ -1,12 +1,19 @@
-savol1
+What do you do in your free time?
 ++
-savol1
+Do you enjoy reading?
 ++
-savol2
+Do you read or write stories or poems?
 ++
-savol3
+Do you play a musical instrument?
 ++
-savol4
+Would you like to learn to play a musical instrument?
 ++
-savol5
+What hobbies are popular in your country?
 ++
+Do you like computer games?
+++
+Do you have any creative hobbies like painting, writing, or music?
+++
+Do you have any active hobbies like sports, hiking or dancing?
+++
+Do you prefer to do your hobbies alone or with other people?
